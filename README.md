@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+<p align="center">
+<img src="https://github.com/ashikmhs/magic-8-ball-flutter/blob/master/screensort/screensort.png" width="250"  />
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
